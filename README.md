@@ -1,2 +1,2 @@
-# -PhotographyPage
-Creating a landing page using just HTML and CSS 
+# PhotographyPage
+Creating a landing page using just HTML and CSS.
